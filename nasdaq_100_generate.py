@@ -1,7 +1,7 @@
 import pandas as pd
 import csv
-import pandas as pd
-import csv
+import requests
+import json
 
 def update_nasdaq_index(date):
     """
@@ -45,10 +45,7 @@ def update_nasdaq_index(date):
         # If the base file exists, merge the new data
         try:
             base_df = pd.read_csv(base_file)
-            
-            # Merge the new column into the base DataFrame
-            updated_df = pd.merge(base_df, new_df, how="outer", left_on=base_df.columns[0], right_on=date)
-            updated_df = updated_df.rename(columns={updated_df.columns[-1]: date})
+            updated_df = pd.concat([base_df, new_df], axis=1)
         except FileNotFoundError:
             # If base file doesn't exist, the new DataFrame becomes the base
             updated_df = new_df

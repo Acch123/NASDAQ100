@@ -26,21 +26,21 @@ def compare_nasdaq_files(date1, date2):
         unchanged_stocks = stocks1 & stocks2
 
         with open("execution_log.txt", "a") as log:
-            log.write(f"Script executed at {datetime.now()}\n")
+            log.write(f"\nScript executed at {datetime.now()}\n")
             if bool(added_stocks) & bool(removed_stocks):
-                log.write(f"Stocks added to NASDAQ 100 between {date1} and {date2}:")
+                log.write(f"Stocks added to NASDAQ 100 between {date1} and {date2}: ")
                 log.write(f"{added_stocks}")
-                log.write(f"Stocks removed from NASDAQ 100 between {date1} and {date2}:")
-                log.write(f"{removed_stocks}")
+                log.write(f"\nStocks removed from NASDAQ 100 between {date1} and {date2}: ")
+                log.write(f"{removed_stocks}\n")
                 #log.write(f"\nStocks that remained in NASDAQ 100 between {date1} and {date2}:")
                 #log.write(unchanged_stocks if unchanged_stocks else "None")
             else:
                 log.write(f"All stocks have remained the same in NASDAQ 100 between {date1} and {date2}\n")
         # Display results
         if bool(added_stocks) & bool(removed_stocks):
-            print(f"\nStocks added to NASDAQ 100 between {date1} and {date2}:")
+            print(f"\nStocks added to NASDAQ 100 between {date1} and {date2}: ")
             print(added_stocks)
-            print(f"\nStocks removed from NASDAQ 100 between {date1} and {date2}:")
+            print(f"\nStocks removed from NASDAQ 100 between {date1} and {date2}: ")
             print(removed_stocks)
             #print(f"\nStocks that remained in NASDAQ 100 between {date1} and {date2}:")
             #print(unchanged_stocks if unchanged_stocks else "None")

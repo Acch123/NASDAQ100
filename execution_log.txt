@@ -12,3 +12,127 @@ Script executed at 2024-12-03 23:29:41.694897
 All stocks have remained the same in NASDAQ 100 between 2024-12-02 and 2024-12-03
 Script executed at 2024-12-04 23:19:18.337407
 All stocks have remained the same in NASDAQ 100 between 2024-12-03 and 2024-12-04
+Script executed at 2024-12-05 23:02:27.625549
+All stocks have remained the same in NASDAQ 100 between 2024-12-04 and 2024-12-05
+Script executed at 2024-12-07 00:04:18.636179
+All stocks have remained the same in NASDAQ 100 between 2024-12-05 and 2024-12-06
+Script executed at 2024-12-09 23:47:16.347797
+All stocks have remained the same in NASDAQ 100 between 2024-12-06 and 2024-12-09
+Script executed at 2024-12-10 23:18:45.187245
+All stocks have remained the same in NASDAQ 100 between 2024-12-09 and 2024-12-10
+Script executed at 2024-12-11 23:03:02.430334
+All stocks have remained the same in NASDAQ 100 between 2024-12-10 and 2024-12-11
+Script executed at 2024-12-12 23:00:16.046443
+All stocks have remained the same in NASDAQ 100 between 2024-12-11 and 2024-12-12
+Script executed at 2024-12-14 04:52:33.523354
+All stocks have remained the same in NASDAQ 100 between 2024-12-12 and 2024-12-13
+Script executed at 2024-12-16 23:01:41.538993
+All stocks have remained the same in NASDAQ 100 between 2024-12-13 and 2024-12-16
+Script executed at 2024-12-17 23:01:38.290898
+All stocks have remained the same in NASDAQ 100 between 2024-12-16 and 2024-12-17
+Script executed at 2024-12-18 23:48:02.073358
+All stocks have remained the same in NASDAQ 100 between 2024-12-17 and 2024-12-18
+Script executed at 2024-12-19 23:37:33.922786
+All stocks have remained the same in NASDAQ 100 between 2024-12-18 and 2024-12-19
+Script executed at 2024-12-20 23:30:41.961774
+All stocks have remained the same in NASDAQ 100 between 2024-12-19 and 2024-12-20
+Script executed at 2024-12-23 23:00:02.849800
+Stocks added to NASDAQ 100 between 2024-12-20 and 2024-12-23:{'AXON', 'PLTR', 'MSTR'}
+Stocks removed from NASDAQ 100 between 2024-12-20 and 2024-12-23:{'MRNA', 'SMCI', 'ILMN'}
+Script executed at 2024-12-24 23:00:02.854496
+All stocks have remained the same in NASDAQ 100 between 2024-12-23 and 2024-12-24
+Script executed at 2024-12-25 23:30:41.961774
+All stocks have remained the same in NASDAQ 100 between 2024-12-24 and 2024-12-25
+Script executed at 2024-12-26 14:25:52.775052
+All stocks have remained the same in NASDAQ 100 between 2024-12-25 and 2024-12-26
+Script executed at 2024-12-27 23:00:02.419659
+All stocks have remained the same in NASDAQ 100 between 2024-12-26 and 2024-12-27
+
+Script executed at 2024-12-30 23:00:02.581770
+All stocks have remained the same in NASDAQ 100 between 2024-12-27 and 2024-12-30
+Warning: Difference between SMA10 and SMA20 for AAPL is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ABNB is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ADI is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ADP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ADSK is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AEP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AMZN is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ANSS is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ASML is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AZN is less than 2%.
+Warning: Difference between SMA10 and SMA20 for BKNG is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CCEP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CDNS is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CDW is less than 2%.
+Warning: Difference between SMA10 and SMA20 for COST is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CRWD is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CSCO is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CTSH is less than 2%.
+Warning: Difference between SMA10 and SMA20 for DASH is less than 2%.
+Warning: Difference between SMA10 and SMA20 for DXCM is less than 2%.
+Warning: Difference between SMA10 and SMA20 for EXC is less than 2%.
+Warning: Difference between SMA10 and SMA20 for FTNT is less than 2%.
+Warning: Difference between SMA10 and SMA20 for GEHC is less than 2%.
+Warning: Difference between SMA10 and SMA20 for GFS is less than 2%.
+Warning: Difference between SMA10 and SMA20 for GILD is less than 2%.
+Warning: Difference between SMA10 and SMA20 for HON is less than 2%.
+Warning: Difference between SMA10 and SMA20 for INTU is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ISRG is less than 2%.
+Warning: Difference between SMA10 and SMA20 for KDP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for KHC is less than 2%.
+Warning: Difference between SMA10 and SMA20 for KLAC is less than 2%.
+Warning: Difference between SMA10 and SMA20 for LULU is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MAR is less than 2%.
+Warning: Difference between SMA10 and SMA20 for META is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MNST is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MRVL is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MSFT is less than 2%.
+Warning: Difference between SMA10 and SMA20 for NFLX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for NVDA is less than 2%.
+Warning: Difference between SMA10 and SMA20 for NXPI is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ON is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ORLY is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PAYX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PDD is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PYPL is less than 2%.
+Warning: Difference between SMA10 and SMA20 for QCOM is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ROST is less than 2%.
+Warning: Difference between SMA10 and SMA20 for TTWO is less than 2%.
+Warning: Difference between SMA10 and SMA20 for TXN is less than 2%.
+Warning: Difference between SMA10 and SMA20 for VRSK is less than 2%.
+Warning: Difference between SMA10 and SMA20 for WDAY is less than 2%.
+Warning: Difference between SMA10 and SMA20 for XEL is less than 2%.
+
+Script executed at 2024-12-31 23:00:03.394347
+All stocks have remained the same in NASDAQ 100 between 2024-12-30 and 2024-12-31
+Warning: Difference between SMA10 and SMA20 for BKR is less than 2%.
+Info: COST no longer satisfies sma_diff < 2. Removed from tracking.
+Info: DASH no longer satisfies sma_diff < 2. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for GOOG is less than 2%.
+Warning: Difference between SMA10 and SMA20 for GOOGL is less than 2%.
+Warning: Difference between SMA10 and SMA20 for INTC is less than 2%.
+
+Script executed at 2025-01-02 23:00:02.714700
+All stocks have remained the same in NASDAQ 100 between 2024-12-31 and 2025-01-02
+Warning: Difference between SMA10 and SMA20 for APP is less than 2%.
+Info: BKNG no longer stays within the ±2% region. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for FANG is less than 2%.
+Info: META no longer stays within the ±2% region. Removed from tracking.
+Info: NXPI no longer stays within the ±2% region. Removed from tracking.
+Info: ORLY no longer stays within the ±2% region. Removed from tracking.
+Info: PDD no longer stays within the ±2% region. Removed from tracking.
+Info: PYPL no longer stays within the ±2% region. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for TSLA is less than 2%.
+
+Script executed at 2025-01-03 23:00:02.475725
+All stocks have remained the same in NASDAQ 100 between 2025-01-02 and 2025-01-03
+Warning: Difference between SMA10 and SMA20 for AMAT is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AMGN is less than 2%.
+Warning: Difference between SMA10 and SMA20 for BIIB is less than 2%.
+Warning: Difference between SMA10 and SMA20 for BKNG is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CSX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for DASH is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MDLZ is less than 2%.
+Warning: Difference between SMA10 and SMA20 for NXPI is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PYPL is less than 2%.
+Info: WDAY no longer stays within the ±2% region. Removed from tracking.

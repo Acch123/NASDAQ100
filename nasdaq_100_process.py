@@ -1,7 +1,7 @@
 import pandas as pd
 from nasdaq_100_generate import update_nasdaq_index
 from nasdaq_100_compare import compare_nasdaq_files
-from nasdaq_100_scrape import scrape_nasdaq_100, scrape_nasdaq_date
+from nasdaq_100_scrape import scrape_nasdaq_100, scrape_nasdaq_date, scrape_api_nasdaq
 from sma_estimate import latest_sma_with_differences
 
 def process_nasdaq_100(new_date):
@@ -38,8 +38,9 @@ def process_nasdaq_100(new_date):
 
 if __name__ == "__main__":
     # 1. Scrape the data and the date from internet
-    scrape_nasdaq_100()
-    date = scrape_nasdaq_date()
+    #scrape_nasdaq_100()
+    #date = scrape_nasdaq_date()
+    date = scrape_api_nasdaq()
     if date is None:
         print(f"The date of the data cannot be found, Please try again.")
     else:
