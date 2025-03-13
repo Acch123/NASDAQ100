@@ -19,65 +19,77 @@ def latest_sma_with_differences(file_path, stock_file="sma_warned_stocks.csv", s
         stock_df.set_index('Symbol', inplace=True)
         stock_df = stock_df.apply(pd.to_numeric, errors='coerce')
 
-        # Load existing stocks with sma_diff < allowed_diff
+        # Load existing tracked stocks
         try:
             tracked_stocks_df = pd.read_csv(stock_file)
-            tracked_stocks = set(tracked_stocks_df['Symbol'])
         except FileNotFoundError:
-            tracked_stocks = set()
+            tracked_stocks_df = pd.DataFrame()
 
-        new_tracked_stocks = set()
+        log_messages = []  # Collect log messages
+        new_tracked_stocks = {}
 
         # Prepare a dictionary to store SMA calculations
         sma_results = {}
 
         # Iterate over rows (each stock)
         for symbol, row in stock_df.iterrows():
-            # Drop NaN values to compute SMAs
             valid_data = row.dropna()
 
-            # Calculate SMAs only if there are enough data points
             if len(valid_data) >= min(sma_periods):
                 latest_sma = {}
                 for period in sma_periods:
-                    if len(valid_data) >= period:
-                        sma = valid_data.tail(period).mean()
-                        latest_sma[f"SMA{period}"] = sma
-                    else:
-                        latest_sma[f"SMA{period}"] = None  # Not enough data for this SMA
-                
-                with open("execution_log.txt", "a") as log:
-                    # Loop through SMA periods to calculate differences
-                    for i in range(len(sma_periods) - 1):
-                        sma_current = f"SMA{sma_periods[i]}"
-                        sma_next = f"SMA{sma_periods[i + 1]}"
-                        
-                        if sma_current in latest_sma and sma_next in latest_sma:
-                            sma_val_current, sma_val_next = latest_sma[sma_current], latest_sma[sma_next]
-                            if sma_val_current and sma_val_next:
-                                diff = abs(sma_val_next - sma_val_current) / sma_val_current * 100
-                                latest_sma[f"Diff_{sma_periods[i]}_{sma_periods[i + 1]} (%)"] = diff
-                                
-                                if diff < allowed_diff:
-                                    new_tracked_stocks.add(symbol)
-                                    if symbol not in tracked_stocks:
-                                        log.write(
-                                            f"Warning: Difference between {sma_current} and {sma_next} for {symbol} is less than {allowed_diff}%.\n"
-                                        )
-                                elif symbol in tracked_stocks:
-                                    log.write(
-                                        f"Info: {symbol} no longer stays within the \u00B1{allowed_diff}% region. Removed from tracking.\n"
+                    latest_sma[f"SMA{period}"] = valid_data.tail(period).mean() if len(valid_data) >= period else None
+
+                for i in range(len(sma_periods) - 1):
+                    sma_current = f"SMA{sma_periods[i]}"
+                    sma_next = f"SMA{sma_periods[i + 1]}"
+                    comparing_sma = f"{sma_periods[i]}-{sma_periods[i + 1]}"
+
+                    # Initialize tracked stocks for this comparison if not already done
+                    if comparing_sma not in new_tracked_stocks:
+                        new_tracked_stocks[comparing_sma] = set()
+
+                    # Calculate and compare differences
+                    if sma_current in latest_sma and sma_next in latest_sma:
+                        sma_val_current, sma_val_next = latest_sma[sma_current], latest_sma[sma_next]
+                        if sma_val_current and sma_val_next:
+                            diff = abs(sma_val_next - sma_val_current) / sma_val_current * 100
+                            latest_sma[f"Diff_{sma_periods[i]}_{sma_periods[i + 1]} (%)"] = diff
+
+                            # Handle warnings and tracking
+                            tracked_stocks = (
+                                set(tracked_stocks_df[comparing_sma].dropna())
+                                if comparing_sma in tracked_stocks_df.columns
+                                else set()
+                            )
+                            if diff < allowed_diff:
+                                new_tracked_stocks[comparing_sma].add(symbol)
+                                if symbol not in tracked_stocks:
+                                    log_messages.append(
+                                        f"Warning: Difference between {sma_current} and {sma_next} for {symbol} is less than {allowed_diff}%."
                                     )
+                            elif symbol in tracked_stocks:
+                                log_messages.append(
+                                    f"Info: {symbol} no longer stays within \u00B1{allowed_diff}%. Removed from tracking."
+                                )
 
                 sma_results[symbol] = latest_sma
 
-        # Save new tracked stocks to the stock file
-        tracked_stocks_df = pd.DataFrame({"Symbol": list(new_tracked_stocks)})
-        tracked_stocks_df.to_csv(stock_file, index=False)
+        # Update the tracking file
+        max_length = max(len(values) for values in new_tracked_stocks.values())
+        aligned_tracked_stocks = {
+            key: list(values) + [""] * (max_length - len(values))  # Pad shorter lists with empty strings
+            for key, values in new_tracked_stocks.items()
+        }
+        final_tracked_stocks = pd.DataFrame(aligned_tracked_stocks)
+        final_tracked_stocks.to_csv(stock_file, index=False)
 
-        # Convert the results into a DataFrame for better readability
+        # Write log messages
+        with open("execution_log.txt", "a") as log:
+            log.write("\n".join(log_messages) + "\n")
+
+        # Convert results to DataFrame
         sma_df = pd.DataFrame.from_dict(sma_results, orient='index')
-
         return sma_df
 
     except FileNotFoundError:
@@ -86,6 +98,7 @@ def latest_sma_with_differences(file_path, stock_file="sma_warned_stocks.csv", s
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         return None
+
 
 if __name__ == "__main__":
     result_df = latest_sma_with_differences('nasdaq_stock.csv')

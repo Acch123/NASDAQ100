@@ -136,3 +136,534 @@ Warning: Difference between SMA10 and SMA20 for MDLZ is less than 2%.
 Warning: Difference between SMA10 and SMA20 for NXPI is less than 2%.
 Warning: Difference between SMA10 and SMA20 for PYPL is less than 2%.
 Info: WDAY no longer stays within the ±2% region. Removed from tracking.
+
+Script executed at 2025-01-06 23:00:02.676456
+All stocks have remained the same in NASDAQ 100 between 2025-01-03 and 2025-01-06
+Warning: Difference between SMA10 and SMA20 for AMD is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CEG is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CMCSA is less than 2%.
+Warning: Difference between SMA10 and SMA20 for LIN is less than 2%.
+Warning: Difference between SMA10 and SMA20 for LRCX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MCHP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for META is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PEP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ROP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for SNPS is less than 2%.
+Warning: Difference between SMA10 and SMA20 for TMUS is less than 2%.
+
+
+Script executed at 2025-01-07 23:00:04.188895
+All stocks have remained the same in NASDAQ 100 between 2025-01-06 and 2025-01-07
+Warning: Difference between SMA10 and SMA20 for CSGP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for IDXX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MELI is less than 2%.
+Info: NVDA no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for ORLY is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PDD is less than 2%.
+Warning: Difference between SMA10 and SMA20 for REGN is less than 2%.
+Warning: Difference between SMA10 and SMA20 for SBUX is less than 2%.
+
+Script executed at 2025-01-08 23:00:02.734317
+All stocks have remained the same in NASDAQ 100 between 2025-01-07 and 2025-01-08
+Info: TSLA no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-01-12 22:03:05.295916
+All stocks have remained the same in NASDAQ 100 between 2025-01-08 and 2025-01-12
+Warning: Difference between SMA10 and SMA20 for ARM is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AVGO is less than 2%.
+Info: CEG no longer stays within ±2%. Removed from tracking.
+Info: FANG no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for NVDA is less than 2%.
+Info: ON no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for PCAR is less than 2%.
+
+Script executed at 2025-01-13 23:00:01.713907
+All stocks have remained the same in NASDAQ 100 between 2025-01-12 and 2025-01-13
+Info: AAPL no longer stays within ±2%. Removed from tracking.
+Info: BKNG no longer stays within ±2%. Removed from tracking.
+Info: BKR no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for CHTR is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CTAS is less than 2%.
+Info: CTSH no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for EA is less than 2%.
+Info: KDP no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for MDB is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MU is less than 2%.
+Warning: Difference between SMA10 and SMA20 for VRTX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ZS is less than 2%.
+
+Script executed at 2025-01-14 23:00:02.024904
+All stocks have remained the same in NASDAQ 100 between 2025-01-13 and 2025-01-14
+Info: ARM no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for COST is less than 2%.
+Warning: Difference between SMA10 and SMA20 for FAST is less than 2%.
+Info: GEHC no longer stays within ±2%. Removed from tracking.
+Info: KLAC no longer stays within ±2%. Removed from tracking.
+Info: NFLX no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for ODFL is less than 2%.
+Warning: Difference between SMA10 and SMA20 for TTD is less than 2%.
+Warning: Difference between SMA10 and SMA20 for WBD is less than 2%.
+
+Script executed at 2025-01-15 23:00:04.346248
+All stocks have remained the same in NASDAQ 100 between 2025-01-14 and 2025-01-15
+Info: AMAT no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for CPRT is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CTSH is less than 2%.
+Warning: Difference between SMA10 and SMA20 for DDOG is less than 2%.
+Info: MRVL no longer stays within ±2%. Removed from tracking.
+Info: MU no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for TEAM is less than 2%.
+
+Script executed at 2025-01-16 23:00:02.418087
+All stocks have remained the same in NASDAQ 100 between 2025-01-15 and 2025-01-16
+Info: ASML no longer stays within ±2%. Removed from tracking.
+Info: LRCX no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for MRVL is less than 2%.
+Info: PEP no longer stays within ±2%. Removed from tracking.
+Info: WBD no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-01-17 23:00:02.674452
+All stocks have remained the same in NASDAQ 100 between 2025-01-16 and 2025-01-17
+Info: CDW no longer stays within ±2%. Removed from tracking.
+Info: ISRG no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for KDP is less than 2%.
+Info: KHC no longer stays within ±2%. Removed from tracking.
+Info: PCAR no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-01-20 23:00:02.330190
+All stocks have remained the same in NASDAQ 100 between 2025-01-17 and 2025-01-20
+Warning: Difference between SMA10 and SMA20 for BKNG is less than 2%.
+Info: CTAS no longer stays within ±2%. Removed from tracking.
+Info: DDOG no longer stays within ±2%. Removed from tracking.
+Info: GFS no longer stays within ±2%. Removed from tracking.
+Info: MNST no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-01-21 23:00:02.922902
+All stocks have remained the same in NASDAQ 100 between 2025-01-20 and 2025-01-21
+Info: AMD no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for ASML is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AXON is less than 2%.
+Warning: Difference between SMA10 and SMA20 for LRCX is less than 2%.
+Info: MDLZ no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for PCAR is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PEP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for TSLA is less than 2%.
+
+Script executed at 2025-01-22 23:00:02.741027
+All stocks have remained the same in NASDAQ 100 between 2025-01-21 and 2025-01-22
+Info: BIIB no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for DDOG is less than 2%.
+Info: LRCX no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for MDLZ is less than 2%.
+Warning: Difference between SMA10 and SMA20 for NFLX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PANW is less than 2%.
+Warning: Difference between SMA10 and SMA20 for WDAY is less than 2%.
+
+Script executed at 2025-01-23 23:00:02.919151
+All stocks have remained the same in NASDAQ 100 between 2025-01-22 and 2025-01-23
+Warning: Difference between SMA10 and SMA20 for ADBE is less than 2%.
+Info: AEP no longer stays within ±2%. Removed from tracking.
+Info: DXCM no longer stays within ±2%. Removed from tracking.
+Info: EA no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for GFS is less than 2%.
+Info: SNPS no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-01-27 23:00:02.452959
+All stocks have remained the same in NASDAQ 100 between 2025-01-23 and 2025-01-27
+Warning: Difference between SMA10 and SMA20 for AMD is less than 2%.
+Warning: Difference between SMA10 and SMA20 for KHC is less than 2%.
+Info: ODFL no longer stays within ±2%. Removed from tracking.
+Info: PDD no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for PLTR is less than 2%.
+Info: QCOM no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-01-28 23:00:02.770108
+All stocks have remained the same in NASDAQ 100 between 2025-01-27 and 2025-01-28
+Info: AMGN no longer stays within ±2%. Removed from tracking.
+Info: APP no longer stays within ±2%. Removed from tracking.
+Info: EXC no longer stays within ±2%. Removed from tracking.
+Info: FAST no longer stays within ±2%. Removed from tracking.
+Info: LIN no longer stays within ±2%. Removed from tracking.
+Info: MDB no longer stays within ±2%. Removed from tracking.
+Info: PAYX no longer stays within ±2%. Removed from tracking.
+Info: SBUX no longer stays within ±2%. Removed from tracking.
+Info: TEAM no longer stays within ±2%. Removed from tracking.
+Info: VRTX no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-01-29 23:00:02.589368
+All stocks have remained the same in NASDAQ 100 between 2025-01-28 and 2025-01-29
+Info: AXON no longer stays within ±2%. Removed from tracking.
+Info: CRWD no longer stays within ±2%. Removed from tracking.
+Info: CSGP no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for FANG is less than 2%.
+Info: INTC no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for LRCX is less than 2%.
+Info: NFLX no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for WBD is less than 2%.
+
+Script executed at 2025-01-30 23:00:03.910094
+All stocks have remained the same in NASDAQ 100 between 2025-01-29 and 2025-01-30
+Warning: Difference between SMA10 and SMA20 for FAST is less than 2%.
+Warning: Difference between SMA10 and SMA20 for GEHC is less than 2%.
+Info: MELI no longer stays within ±2%. Removed from tracking.
+Info: META no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for MNST is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MU is less than 2%.
+Info: NVDA no longer stays within ±2%. Removed from tracking.
+Info: PANW no longer stays within ±2%. Removed from tracking.
+Info: PLTR no longer stays within ±2%. Removed from tracking.
+Info: ROP no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-01-31 23:00:02.423826
+All stocks have remained the same in NASDAQ 100 between 2025-01-30 and 2025-01-31
+Warning: Difference between SMA10 and SMA20 for AAPL is less than 2%.
+Info: AMZN no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for BIIB is less than 2%.
+Warning: Difference between SMA10 and SMA20 for BKR is less than 2%.
+Info: CTSH no longer stays within ±2%. Removed from tracking.
+Info: DASH no longer stays within ±2%. Removed from tracking.
+Info: ORLY no longer stays within ±2%. Removed from tracking.
+Info: TMUS no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-02-03 23:00:02.927397
+All stocks have remained the same in NASDAQ 100 between 2025-01-31 and 2025-02-03
+Warning: Difference between SMA10 and SMA20 for AMAT is less than 2%.
+Info: AZN no longer stays within ±2%. Removed from tracking.
+Info: GILD no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for INTC is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MSTR is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ODFL is less than 2%.
+Info: ZS no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-02-04 23:00:03.162632
+All stocks have remained the same in NASDAQ 100 between 2025-02-03 and 2025-02-04
+Info: ADBE no longer stays within ±2%. Removed from tracking.
+Info: ADSK no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for CTAS is less than 2%.
+Info: FTNT no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for KLAC is less than 2%.
+Info: MU no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for PAYX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for SNPS is less than 2%.
+
+Script executed at 2025-02-05 23:00:03.099308
+All stocks have remained the same in NASDAQ 100 between 2025-02-04 and 2025-02-05
+Warning: Difference between SMA20 and SMA50 for ABNB is less than 2%.
+Warning: Difference between SMA20 and SMA50 for ADI is less than 2%.
+Warning: Difference between SMA20 and SMA50 for ADP is less than 2%.
+Warning: Difference between SMA20 and SMA50 for ADSK is less than 2%.
+Warning: Difference between SMA20 and SMA50 for AEP is less than 2%.
+Warning: Difference between SMA20 and SMA50 for AMGN is less than 2%.
+Warning: Difference between SMA20 and SMA50 for AMZN is less than 2%.
+Warning: Difference between SMA20 and SMA50 for ANSS is less than 2%.
+Warning: Difference between SMA20 and SMA50 for APP is less than 2%.
+Warning: Difference between SMA20 and SMA50 for ASML is less than 2%.
+Info: AVGO no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for AZN is less than 2%.
+Warning: Difference between SMA20 and SMA50 for CCEP is less than 2%.
+Warning: Difference between SMA20 and SMA50 for CDNS is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CEG is less than 2%.
+Info: COST no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for COST is less than 2%.
+Warning: Difference between SMA20 and SMA50 for CSCO is less than 2%.
+Warning: Difference between SMA20 and SMA50 for CSGP is less than 2%.
+Warning: Difference between SMA20 and SMA50 for CSX is less than 2%.
+Warning: Difference between SMA20 and SMA50 for CTSH is less than 2%.
+Warning: Difference between SMA20 and SMA50 for DASH is less than 2%.
+Info: FANG no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for FTNT is less than 2%.
+Warning: Difference between SMA20 and SMA50 for GILD is less than 2%.
+Warning: Difference between SMA20 and SMA50 for HON is less than 2%.
+Warning: Difference between SMA20 and SMA50 for IDXX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ISRG is less than 2%.
+Warning: Difference between SMA10 and SMA20 for LIN is less than 2%.
+Warning: Difference between SMA20 and SMA50 for LIN is less than 2%.
+Info: LULU no longer stays within ±2%. Removed from tracking.
+Info: MAR no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for MAR is less than 2%.
+Warning: Difference between SMA20 and SMA50 for MELI is less than 2%.
+Info: MRVL no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for MSFT is less than 2%.
+Warning: Difference between SMA20 and SMA50 for MU is less than 2%.
+Warning: Difference between SMA20 and SMA50 for NFLX is less than 2%.
+Warning: Difference between SMA20 and SMA50 for ORLY is less than 2%.
+Warning: Difference between SMA20 and SMA50 for PAYX is less than 2%.
+Warning: Difference between SMA20 and SMA50 for PCAR is less than 2%.
+Warning: Difference between SMA20 and SMA50 for PYPL is less than 2%.
+Warning: Difference between SMA20 and SMA50 for ROP is less than 2%.
+Warning: Difference between SMA20 and SMA50 for ROST is less than 2%.
+Warning: Difference between SMA20 and SMA50 for SNPS is less than 2%.
+Warning: Difference between SMA20 and SMA50 for TEAM is less than 2%.
+Warning: Difference between SMA20 and SMA50 for TMUS is less than 2%.
+Warning: Difference between SMA20 and SMA50 for TSLA is less than 2%.
+Warning: Difference between SMA20 and SMA50 for TTWO is less than 2%.
+Warning: Difference between SMA20 and SMA50 for TXN is less than 2%.
+Warning: Difference between SMA20 and SMA50 for VRSK is less than 2%.
+Warning: Difference between SMA20 and SMA50 for VRTX is less than 2%.
+Info: WBD no longer stays within ±2%. Removed from tracking.
+Info: WDAY no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for ZS is less than 2%.
+
+Script executed at 2025-02-06 23:00:02.455786
+All stocks have remained the same in NASDAQ 100 between 2025-02-05 and 2025-02-06
+Warning: Difference between SMA10 and SMA20 for ADBE is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AEP is less than 2%.
+Info: CMCSA no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for CTAS is less than 2%.
+Info: IDXX no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for NXPI is less than 2%.
+Info: TSLA no longer stays within ±2%. Removed from tracking.
+Info: TXN no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for WDAY is less than 2%.
+
+Script executed at 2025-02-07 23:00:02.468495
+All stocks have remained the same in NASDAQ 100 between 2025-02-06 and 2025-02-07
+Info: AEP no longer stays within ±2%. Removed from tracking.
+Info: AMD no longer stays within ±2%. Removed from tracking.
+Info: AMGN no longer stays within ±2%. Removed from tracking.
+Info: APP no longer stays within ±2%. Removed from tracking.
+Info: CEG no longer stays within ±2%. Removed from tracking.
+Info: DASH no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for KDP is less than 2%.
+Info: MCHP no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for MRVL is less than 2%.
+Info: MSTR no longer stays within ±2%. Removed from tracking.
+Info: PAYX no longer stays within ±2%. Removed from tracking.
+Info: PYPL no longer stays within ±2%. Removed from tracking.
+Info: TEAM no longer stays within ±2%. Removed from tracking.
+Info: VRSK no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for XEL is less than 2%.
+
+Script executed at 2025-02-10 23:00:04.163582
+All stocks have remained the same in NASDAQ 100 between 2025-02-07 and 2025-02-10
+Info: ADI no longer stays within ±2%. Removed from tracking.
+Info: AZN no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for CEG is less than 2%.
+Warning: Difference between SMA10 and SMA20 for EXC is less than 2%.
+Warning: Difference between SMA20 and SMA50 for FAST is less than 2%.
+Info: INTC no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for INTC is less than 2%.
+Info: NFLX no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for ODFL is less than 2%.
+Warning: Difference between SMA10 and SMA20 for QCOM is less than 2%.
+Warning: Difference between SMA10 and SMA20 for VRSK is less than 2%.
+
+Script executed at 2025-02-11 23:00:02.073306
+All stocks have remained the same in NASDAQ 100 between 2025-02-10 and 2025-02-11
+Warning: Difference between SMA10 and SMA20 for ADSK is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AMZN is less than 2%.
+Info: AMZN no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for AVGO is less than 2%.
+Warning: Difference between SMA20 and SMA50 for CPRT is less than 2%.
+Warning: Difference between SMA10 and SMA20 for DXCM is less than 2%.
+Warning: Difference between SMA20 and SMA50 for FANG is less than 2%.
+Info: GFS no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for GOOG is less than 2%.
+Warning: Difference between SMA20 and SMA50 for GOOGL is less than 2%.
+Warning: Difference between SMA20 and SMA50 for MDB is less than 2%.
+Info: MELI no longer stays within ±2%. Removed from tracking.
+Info: ORLY no longer stays within ±2%. Removed from tracking.
+Info: TSLA no longer stays within ±2%. Removed from tracking.
+Info: TTWO no longer stays within ±2%. Removed from tracking.
+Info: VRTX no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for WBD is less than 2%.
+
+Script executed at 2025-02-12 23:00:02.397551
+All stocks have remained the same in NASDAQ 100 between 2025-02-11 and 2025-02-12
+Warning: Difference between SMA10 and SMA20 for CDW is less than 2%.
+Info: CSCO no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for CSGP is less than 2%.
+Info: CTSH no longer stays within ±2%. Removed from tracking.
+Info: FTNT no longer stays within ±2%. Removed from tracking.
+Info: GILD no longer stays within ±2%. Removed from tracking.
+Info: IDXX no longer stays within ±2%. Removed from tracking.
+Info: LIN no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for LULU is less than 2%.
+Info: MSFT no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for PANW is less than 2%.
+Info: ROP no longer stays within ±2%. Removed from tracking.
+Info: ROST no longer stays within ±2%. Removed from tracking.
+Info: SNPS no longer stays within ±2%. Removed from tracking.
+Info: TMUS no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for WDAY is less than 2%.
+
+Script executed at 2025-02-13 23:00:02.446990
+All stocks have remained the same in NASDAQ 100 between 2025-02-12 and 2025-02-13
+Warning: Difference between SMA20 and SMA50 for CHTR is less than 2%.
+Info: COST no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for EA is less than 2%.
+Warning: Difference between SMA10 and SMA20 for GFS is less than 2%.
+Info: HON no longer stays within ±2%. Removed from tracking.
+Info: HON no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for INTC is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MAR is less than 2%.
+Info: TTD no longer stays within ±2%. Removed from tracking.
+Info: TTWO no longer stays within ±2%. Removed from tracking.
+Info: ZS no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-02-14 23:00:01.782889
+All stocks have remained the same in NASDAQ 100 between 2025-02-13 and 2025-02-14
+Warning: Difference between SMA10 and SMA20 for ARM is less than 2%.
+Warning: Difference between SMA20 and SMA50 for AVGO is less than 2%.
+Warning: Difference between SMA10 and SMA20 for LULU is less than 2%.
+Warning: Difference between SMA20 and SMA50 for MDLZ is less than 2%.
+Warning: Difference between SMA10 and SMA20 for NVDA is less than 2%.
+Warning: Difference between SMA20 and SMA50 for PEP is less than 2%.
+Info: PYPL no longer stays within ±2%. Removed from tracking.
+Info: ROST no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-02-17 23:00:02.559188
+All stocks have remained the same in NASDAQ 100 between 2025-02-14 and 2025-02-17
+Info: ABNB no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for ADBE is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ADI is less than 2%.
+Info: CCEP no longer stays within ±2%. Removed from tracking.
+Info: CCEP no longer stays within ±2%. Removed from tracking.
+Info: CSGP no longer stays within ±2%. Removed from tracking.
+Info: EXC no longer stays within ±2%. Removed from tracking.
+Info: GOOG no longer stays within ±2%. Removed from tracking.
+Info: GOOGL no longer stays within ±2%. Removed from tracking.
+Info: INTC no longer stays within ±2%. Removed from tracking.
+Info: MDB no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for MU is less than 2%.
+Info: ODFL no longer stays within ±2%. Removed from tracking.
+Info: ODFL no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for TXN is less than 2%.
+Info: TXN no longer stays within ±2%. Removed from tracking.
+Info: VRSK no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-02-18 23:00:04.643917
+All stocks have remained the same in NASDAQ 100 between 2025-02-17 and 2025-02-18
+Info: ADP no longer stays within ±2%. Removed from tracking.
+Info: BKNG no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for CMCSA is less than 2%.
+Info: CSCO no longer stays within ±2%. Removed from tracking.
+Info: CTAS no longer stays within ±2%. Removed from tracking.
+Info: EA no longer stays within ±2%. Removed from tracking.
+Info: INTC no longer stays within ±2%. Removed from tracking.
+Info: LRCX no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for MRVL is less than 2%.
+Info: MSFT no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for ORLY is less than 2%.
+Info: PANW no longer stays within ±2%. Removed from tracking.
+Info: PCAR no longer stays within ±2%. Removed from tracking.
+Info: PEP no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for ROP is less than 2%.
+
+Script executed at 2025-02-19 23:00:03.126408
+All stocks have remained the same in NASDAQ 100 between 2025-02-18 and 2025-02-19
+Info: ABNB no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for AMGN is less than 2%.
+Info: AVGO no longer stays within ±2%. Removed from tracking.
+Info: BIIB no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for BKNG is less than 2%.
+Info: CEG no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for MCHP is less than 2%.
+Info: MDLZ no longer stays within ±2%. Removed from tracking.
+Info: MRVL no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for MSFT is less than 2%.
+Info: NVDA no longer stays within ±2%. Removed from tracking.
+Info: NXPI no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for PCAR is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PEP is less than 2%.
+Warning: Difference between SMA10 and SMA20 for VRTX is less than 2%.
+
+Script executed at 2025-02-20 23:00:02.092708
+All stocks have remained the same in NASDAQ 100 between 2025-02-19 and 2025-02-20
+Warning: Difference between SMA20 and SMA50 for AMAT is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AMD is less than 2%.
+Warning: Difference between SMA20 and SMA50 for AMZN is less than 2%.
+Warning: Difference between SMA10 and SMA20 for AXON is less than 2%.
+Info: DDOG no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for GFS is less than 2%.
+Warning: Difference between SMA10 and SMA20 for IDXX is less than 2%.
+Warning: Difference between SMA20 and SMA50 for KHC is less than 2%.
+Info: LULU no longer stays within ±2%. Removed from tracking.
+Info: MU no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for ON is less than 2%.
+Warning: Difference between SMA20 and SMA50 for SNPS is less than 2%.
+Warning: Difference between SMA20 and SMA50 for WBD is less than 2%.
+
+Script executed at 2025-02-21 23:00:02.368204
+All stocks have remained the same in NASDAQ 100 between 2025-02-20 and 2025-02-21
+Warning: Difference between SMA20 and SMA50 for AAPL is less than 2%.
+Info: CDNS no longer stays within ±2%. Removed from tracking.
+Info: CDW no longer stays within ±2%. Removed from tracking.
+Info: GFS no longer stays within ±2%. Removed from tracking.
+Info: MAR no longer stays within ±2%. Removed from tracking.
+Info: MCHP no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for META is less than 2%.
+Warning: Difference between SMA10 and SMA20 for MSTR is less than 2%.
+Warning: Difference between SMA20 and SMA50 for PANW is less than 2%.
+Warning: Difference between SMA10 and SMA20 for ZS is less than 2%.
+
+Script executed at 2025-02-24 23:00:02.784254
+All stocks have remained the same in NASDAQ 100 between 2025-02-21 and 2025-02-24
+Info: ADI no longer stays within ±2%. Removed from tracking.
+Info: AMZN no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for AVGO is less than 2%.
+Info: AVGO no longer stays within ±2%. Removed from tracking.
+Info: AXON no longer stays within ±2%. Removed from tracking.
+Info: CDNS no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for CEG is less than 2%.
+Info: FANG no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for MDB is less than 2%.
+Info: MNST no longer stays within ±2%. Removed from tracking.
+Info: MSTR no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for NFLX is less than 2%.
+Warning: Difference between SMA20 and SMA50 for REGN is less than 2%.
+Warning: Difference between SMA10 and SMA20 for SBUX is less than 2%.
+Warning: Difference between SMA10 and SMA20 for TEAM is less than 2%.
+Warning: Difference between SMA20 and SMA50 for TXN is less than 2%.
+
+Script executed at 2025-02-25 23:00:01.776944
+All stocks have remained the same in NASDAQ 100 between 2025-02-24 and 2025-02-25
+Info: AAPL no longer stays within ±2%. Removed from tracking.
+Info: ADSK no longer stays within ±2%. Removed from tracking.
+Info: AEP no longer stays within ±2%. Removed from tracking.
+Info: ARM no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA20 and SMA50 for AVGO is less than 2%.
+Info: CMCSA no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for COST is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CSCO is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CTSH is less than 2%.
+Warning: Difference between SMA10 and SMA20 for FANG is less than 2%.
+Warning: Difference between SMA20 and SMA50 for MAR is less than 2%.
+Warning: Difference between SMA20 and SMA50 for MCHP is less than 2%.
+Info: MRVL no longer stays within ±2%. Removed from tracking.
+Info: NXPI no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for ODFL is less than 2%.
+Warning: Difference between SMA10 and SMA20 for PANW is less than 2%.
+Info: PANW no longer stays within ±2%. Removed from tracking.
+Info: SNPS no longer stays within ±2%. Removed from tracking.
+Info: TXN no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-02-28 02:00:02.520656
+All stocks have remained the same in NASDAQ 100 between 2025-02-25 and 2025-02-27
+Info: AMAT no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for BIIB is less than 2%.
+Info: CHTR no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for CRWD is less than 2%.
+Info: CSCO no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for EA is less than 2%.
+Info: GEHC no longer stays within ±2%. Removed from tracking.
+Info: GOOGL no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for HON is less than 2%.
+Info: KDP no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for LRCX is less than 2%.
+Warning: Difference between SMA20 and SMA50 for MNST is less than 2%.
+Info: WBD no longer stays within ±2%. Removed from tracking.
+
+Script executed at 2025-03-01 02:00:02.329577
+All stocks have remained the same in NASDAQ 100 between 2025-02-27 and 2025-02-28
+Warning: Difference between SMA10 and SMA20 for AZN is less than 2%.
+Info: CEG no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for CHTR is less than 2%.
+Warning: Difference between SMA10 and SMA20 for CSCO is less than 2%.
+Warning: Difference between SMA10 and SMA20 for GEHC is less than 2%.
+Info: GOOG no longer stays within ±2%. Removed from tracking.
+Info: KHC no longer stays within ±2%. Removed from tracking.
+Info: MDLZ no longer stays within ±2%. Removed from tracking.
+Warning: Difference between SMA10 and SMA20 for PLTR is less than 2%.
+Info: TEAM no longer stays within ±2%. Removed from tracking.
+Info: XEL no longer stays within ±2%. Removed from tracking.

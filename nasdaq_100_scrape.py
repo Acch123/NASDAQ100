@@ -158,10 +158,22 @@ def scrape_api_nasdaq():
     print(f"Table has been extracted and saved to {csv_file}.")
     
     date_string = json_data["data"]["date"]
-    date_object = datetime.strptime(date_string, "%b %d, %Y %I:%M %p")
-    date = date_object.strftime("%Y-%m-%d")
-    print(f"The data is scraped on {date}")
-    return date
+    formats = [
+        "%b %d, %Y %I:%M %p",  # Format with time
+        "%b %d, %Y"            # Format without time
+    ]
+    for fmt in formats:
+        try:
+            date_object = datetime.strptime(date_string, fmt)
+            date = date_object.strftime("%Y-%m-%d")
+            break
+        except ValueError:
+            continue  # Try the next format
+    if date:
+        print(f"The data is scraped on {date}")
+        return date
+    else:
+        return None
 
 
 if __name__ == "__main__":
