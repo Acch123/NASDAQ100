@@ -1,7 +1,6 @@
 import pandas as pd
 import csv
-import requests
-import json
+
 
 def update_nasdaq_index(date):
     """
